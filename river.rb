@@ -6,7 +6,7 @@ class River
     @name = name
     @length = length 
     @countries = countries
-    @discharge - discharge 
+    @discharge = discharge 
   end 
 
 end 
