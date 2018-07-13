@@ -12,7 +12,7 @@ class River
   def 
 
   def flood
-   flood = discharge + (discharge * 0.3)
+    
   end 
   
   def dry_up
